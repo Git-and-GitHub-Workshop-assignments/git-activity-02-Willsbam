@@ -23,6 +23,9 @@ Also, note that the commit history and the resulting snapshots will differ from 
    * Make another branch and more edits
 * Go to step 3 in Canvas, **3. Merge the 'cats' branch**, and follow the directions for merging the `cats` branch on GitHub.
 * Go to step 4 in Canvas, **4. Merge the 'dogs' branch**, and follow the directions for merging the `dogs` branch on GitHub and resolving the merge conflict.
+
+
+
   / \__
   (    @\___
   /         O
